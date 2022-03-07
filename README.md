@@ -16,4 +16,4 @@ My version of the ChoreBot:
 
 ### Screenshot
 
-![] (./screenshot.png)
+![](./screenshot.png)
