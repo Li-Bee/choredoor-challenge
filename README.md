@@ -12,7 +12,7 @@ Follow the link below to see what your game will look like by the end of this pr
 
 [Chore Door](https://content.codecademy.com/projects/chore-door/chore-door-final/index.html)
 
-My version of the ChoreBot:
+My version of the Chore Door:
 
 ### Screenshot
 
